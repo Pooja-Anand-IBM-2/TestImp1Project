@@ -160,7 +160,7 @@
                   <value name="node_type">record</value>
                   <value name="node_subtype">unknown</value>
                   <value name="is_public">false</value>
-                  <value name="field_name">get200meResponse</value>
+                  <value name="field_name">Profile</value>
                   <value name="field_type">record</value>
                   <value name="field_dim">0</value>
                   <value name="field_opt">true</value>
@@ -240,7 +240,7 @@
                   <value name="node_type">record</value>
                   <value name="node_subtype">unknown</value>
                   <value name="is_public">false</value>
-                  <value name="field_name">getdefaultmeResponse</value>
+                  <value name="field_name">Error</value>
                   <value name="field_type">record</value>
                   <value name="field_dim">0</value>
                   <value name="field_opt">true</value>
@@ -543,6 +543,7 @@
       <value name="modifiable">true</value>
     </record>
   </record>
+  <value name="description">The User Profile endpoint returns information about the Uber user that has authorized with the application.</value>
   <value name="node_comment">The User Profile endpoint returns information about the Uber user that has authorized with the application.</value>
   <value name="stateless">yes</value>
   <value name="caching">no</value>
