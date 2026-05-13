@@ -46,8 +46,8 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="createdBy">Pooja.Anand2@ibm.com</value>
-    <value name="createdDate">1778694987157</value>
-    <value name="lastModifiedDate">1778694987157</value>
+    <value name="createdDate">1778695228525</value>
+    <value name="lastModifiedDate">1778695228525</value>
     <value name="displayName">daftest1</value>
     <value name="description"></value>
     <array name="appList" type="record" depth="1">
@@ -61,15 +61,16 @@
         <value name="name">newUber</value>
         <value name="itemType">APPS</value>
         <record name="operation" javaclass="com.wm.util.Values">
-          <value name="connectorID">project.testimp1.TestImp1Project.newUber</value>
+          <value name="connectorID">project.testwb3262.TestWb3262Project.newUber</value>
           <value name="isCustom">true</value>
           <value name="isDynamicOperation">false</value>
           <value name="isImportedOperation">false</value>
-          <value name="nsName">project.testimp1.TestImp1Project.project_project_testimp1_TestImp1Project_newUber.operations.actions:getHISTORY</value>
+          <value name="nsName">project.testimp1.TestImp1Project.project_testimp1_TestImp1Project_newUber.operations.actions:getHISTORY</value>
           <value name="operationName">getHISTORY</value>
           <value name="operationType">actions</value>
           <value name="packageName">TestImp1Project</value>
           <value name="projectName">project.testimp1</value>
+          <value name="connectorId">project.testimp1.TestImp1Project.newUber</value>
         </record>
         <value name="id">project.testimp1.TestImp1Project.newUber</value>
         <value name="providerName">TestImp1Project</value>
